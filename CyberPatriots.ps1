@@ -127,9 +127,6 @@ function distractor(){
     1 {echo "did you know that it is impossible for most people to lick their own elbow?"}
     2 {echo "Did you know that if you spell hello backwards and you spell it backwards against it you get hello"}
     3 {echo "Did you know that you're wasting time?"}
-    4 {}
-    5 {}
-    6 {}
 }
 }
 
